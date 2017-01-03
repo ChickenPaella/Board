@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<script>location.href="list.jsp"; </script>
+	<script>location.href="list.do"; </script>
 </body>
 </html>
